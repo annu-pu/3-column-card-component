@@ -10,14 +10,14 @@ p{
   line-height: 1.5;
   font-family: "Lexend Deca", sans-serif;
   margin-bottom: 100px;
-  font-sixe: 2.5rem;
+  font-size: 1.5rem;
 }
 h1,h2,h3,h4,h5,h6{
   color: hsl(0, 0%, 95%);
   font-family: "Big Shoulders Display", cursive;
   font-weight: 700;
   margin: 20px 0;
-  font-size: 3.5rem;
+  font-size: 3rem;
 }
 .row{
   width: 60%;
@@ -42,11 +42,15 @@ h1,h2,h3,h4,h5,h6{
     height: 100%;
     padding: 15% 15%;
 }
+.divbtn{
+  text-align: center;
+}  
 .button{
   background-color: hsl(0, 0%, 95%);
   border-radius: 25px;
   border-width: 0;
   padding: 5% 7%;
+  margin: 0 auto;
 }
 .orange{
   color: hsl(31, 77%, 52%);
